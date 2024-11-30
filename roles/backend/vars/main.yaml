@@ -1,4 +1,4 @@
-login_password: ExpenseApp@1
-login_host: mysql.jagadeesh.online
+# login_password: ExpenseApp@1
+# login_host: mysql.jagadeesh.online
 app_location: /app
 component: backend
