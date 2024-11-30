@@ -5,3 +5,6 @@
   - /var/expense/credentials_mysql.yaml # ansible server
   roles:
   - mysql
+
+
+  # /var/expense/credentials_mysql.yaml -> Give read permisson to this file for all users in the server
